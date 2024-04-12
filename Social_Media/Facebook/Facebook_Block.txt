@@ -1,4 +1,3 @@
-*facebook*
 ||apps.facebook.com^
 ||connect.facebook.net^
 ||facebook.com^
