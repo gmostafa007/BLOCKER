@@ -1,4 +1,3 @@
-||*youtube*
 ||youtube.com^
 ||googlevideo.com^
 ||r3---sn-o097znlk.googlevideo.com^
